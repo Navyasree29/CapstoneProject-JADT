@@ -12,7 +12,7 @@ terraform.tfvars
 deploy_key
 *.pem
 capstone-deploy-key
-capstone-deploy-key.pub
+
 
 
 # OS / Editor
